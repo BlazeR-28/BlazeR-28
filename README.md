@@ -11,7 +11,8 @@ I love working with Blender and GIMP, and I'm always eager to improve my skills 
 [![](https://skillicons.dev/icons?i=vscode)](https://code.visualstudio.com/download)
 [![](https://skillicons.dev/icons?i=pycharm)](https://jetbrains.com/pycharm/ "PyCharm") 
 [![](https://skillicons.dev/icons?i=blender)](https://www.blender.org/download/)
-[![](https://skillicons.dev/icons?i=gimp)](https://www.gimp.org/downloads/ "GIMP")
+<img src="assets/gimp_icon.png" alt="GIMP Icon" width="50" height="50">
 
 ## 📊 My Stats  
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BlazeR-28&show_icons=true&theme=dark)
+
