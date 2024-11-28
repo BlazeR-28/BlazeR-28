@@ -5,9 +5,6 @@
   Hobby programmer with basic knowledge in Python, HTML, and CSS, with a passion for 3D modeling and graphic design.  
   I love working with Blender and GIMP, and I'm always eager to improve my skills and learn new things.
   <div id="badges" align="center">
-    <a href="https://linktr.ee/BlazeR.28">
-      <img src="https://img.shields.io/badge/Linktree-acdc5c?style=for-the-badge&logo=linktree&logoColor=black" alt="Linktree Badge"/>
-    </a>
     <a href="https://x.com/BlazeR28_">
       <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter Badge"/>
     </a>
