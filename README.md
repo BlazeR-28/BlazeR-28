@@ -1,47 +1,51 @@
-<div align="center">
+# 👋 Hallo, ich bin Blazer (BlazeR-28)
 
-# <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&color=a855f7&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;I'm+BlazeR!" />
-
-## BlazeR – Hobby Programmer & Designer  
-
-Hobby programmer passionate about **Python**, **3D modeling** & **graphic design**.  
-Exploring **Blender**, **Photoshop** & **web development**.
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=BlazeR-28&show_icons=true&theme=tokyonight" alt="Blazer's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BlazeR-28&layout=compact&theme=tokyonight" alt="Top Langs" />
+</p>
 
 ---
 
-## 🛠️ My Tools  
+### 🚀 Über mich
+Ich bin ein leidenschaftlicher **Hobby-Programmierer** und **3D-Artist** aus Deutschland. Mein Fokus liegt auf der Verbindung von Code und Design – von praktischen Python-Tools bis hin zu komplexen 3D-Szenen in Blender.
 
-**Programming Languages**  
-[![](https://skillicons.dev/icons?i=py,cs,html,css&theme=dark)](#)
-
-**Software**  
-[![](https://skillicons.dev/icons?i=vscode,visualstudio,blender,ps&theme=dark)](#)
-
----
-
-## 📊 My Stats  
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=BlazeR-28&show_icons=true&theme=dark&title_color=a855f7&icon_color=a855f7&text_color=FFFFFF&bg_color=000000)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BlazeR-28&layout=compact&theme=dark&title_color=a855f7&text_color=FFFFFF&bg_color=000000)
-
-[![BlazeR's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=BlazeR-28&bg_color=000000&color=a855f7&line=a855f7&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+- 🔭 Ich arbeite aktuell an **Web-Entwicklung** und **Manim-Animationen**.
+- 🎨 Ich liebe es, kreative Lösungen in **Blender** und **Photoshop** zu erschaffen.
+- ⚡ Fun Fact: Ich experimentiere gerne mit mathematischen Animationen (Manim).
 
 ---
 
-## 🚀 Featured Projects  
+### 🛠️ Tech Stack & Tools
 
-🔹 [**3D Blender Models**](https://github.com/BlazeR-28/Blender-Models) – Sammlung von Render-Tests und Modellen  
-🔹 [**Python Tools**](https://github.com/BlazeR-28/Python-Scripts) – kleine Scripte & Experimente  
-
----
-
-## 🌐 Connect with Me  
-
-[![Twitter Badge](https://img.shields.io/badge/Twitter-111111?style=for-the-badge&logo=x&logoColor=a855f7)](https://x.com/BlazeR28_) 
-[![YouTube Badge](https://img.shields.io/badge/YouTube-111111?style=for-the-badge&logo=youtube&logoColor=a855f7)](https://www.youtube.com/channel/UC0Y39mqqA9Mj85jez15l-9w)  
+| Kategorie | Technologien |
+| :--- | :--- |
+| **Programmierung** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
+| **Frontend** | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) |
+| **Design & 3D** | ![Blender](https://img.shields.io/badge/Blender-F5792A?style=flat-square&logo=blender&logoColor=white) ![Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=flat-square&logo=adobe-photoshop&logoColor=white) |
+| **Editoren** | ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white) ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat-square&logo=visual-studio&logoColor=white) |
 
 ---
 
-👀 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=BlazeR-28.visitor-badge&format=true&left_color=2d2d2d&right_color=000000&text_color=a855f7)
+### 📂 Top Projekte
+- 🧊 **[Blender Models](https://github.com/BlazeR-28/Blender-Models)** – Eine Sammlung meiner 3D-Renderings und Modelle.
+- 🐍 **[Python Scripts](https://github.com/BlazeR-28/Python-Scripts)** – Nützliche Tools und kleine Automatisierungsskripte.
+- 🌐 **[Web Dev Learning](https://github.com/BlazeR-28/web-dev-learning)** – Mein Fortschritt im Bereich modernes Webdesign und JS.
 
-</div>
+---
+
+### 📈 Aktivität
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=BlazeR-28&theme=tokyonight)
+
+---
+
+### 🌐 Kontakt
+<p align="left">
+<a href="https://x.com/BlazeR28_" target="blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="BlazeR28_" /></a>
+<a href="https://www.youtube.com/channel/UC0Y39mqqA9Mj85jez15l-9w" target="blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="BlazeR YouTube" /></a>
+</p>
+
+---
+<p align="center">
+  <i>"Code is like humor. When you have to explain it, it’s bad."</i>
+</p>
