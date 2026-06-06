@@ -40,6 +40,7 @@ A premium, standalone C# WPF WebView2 note-taking scratchpad. Designed with a cu
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Blender-F5792A?style=flat-square&logo=blender&logoColor=white" />
+  <img src="https://img.shields.io/badge/Affinity-22B14C?style=flat-square&logo=affinity&logoColor=white" />
   <img src="https://img.shields.io/badge/Obsidian-7C4DFF?style=flat-square&logo=obsidian&logoColor=white" />
 </p>
 
