@@ -18,30 +18,20 @@ C# (.NET, WinUI 3, WPF) | Python Automation | Blender 3D Rendering
 
 ---
 
-### 💻 Featured Projects
+### 💻 Featured Project
 
-<table align="center" width="100%">
-  <tr>
-    <td width="50%" align="left" valign="top">
-      <strong>🚀 <a href="https://github.com/BlazeR-28/QuickText">QuickText</a></strong><br/>
-      A premium standalone C# WPF WebView2 note-taking scratchpad. Features customizable global/local shortcuts, adjustable layered window opacity, autosave, and a Liquid Glass styled settings panel.
-    </td>
-    <td width="50%" align="left" valign="top">
-      <strong>🛠️ <a href="https://github.com/BlazeR-28/OmniUp">OmniUp (V6)</a></strong><br/>
-      A modern C# WinUI 3 desktop client designed to manage and perform global system updates utilizing <code>winget</code>. Designed with a custom navigation sidebar and desaturated dark visuals.
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" align="left" valign="top">
-      <strong>🌐 Local Web Hosting Suite</strong><br/>
-      A Docker-based development environment mapping wildcard domains (*.blazer, *.localhost) to subfolders using Traefik v3 and a custom Nginx container.
-    </td>
-    <td width="50%" align="left" valign="top">
-      <strong>🎙️ Handy App</strong><br/>
-      An offline Windows speech-to-text dictation client, integrating Ollama with <code>gemma2:9b</code> to automatically correct grammar and remove filler words in the background.
-    </td>
-  </tr>
-</table>
+<strong>🚀 <a href="https://github.com/BlazeR-28/QuickText">QuickText</a></strong>
+
+A premium, standalone C# WPF WebView2 note-taking scratchpad. Designed with a custom frosted glass *Liquid Glass* aesthetic, it provides a fast, lightweight writing workspace.
+
+<div align="left" style="max-width: 600px; margin: 0 auto;">
+
+* 🛠️ **Layered Window Opacity** – Dynamic alpha blending (20% to 100%) via native Win32 interop (WS_EX_LAYERED) avoiding WPF input capture bugs.
+* ⌨️ **Keyboard Shortcuts** – Configurable global hotkey (Win32 global procedure) to toggle window visibility instantly, alongside local shortcuts.
+* 💾 **Autosave & Restore** – Automatically persists note content in real-time.
+* ⚙️ **Shortcuts & Settings Grid** – Expandable settings panel with a compact 2x2 shortcut configuration grid.
+
+</div>
 
 ---
 
@@ -66,16 +56,6 @@ C# (.NET, WinUI 3, WPF) | Python Automation | Blender 3D Rendering
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=BlazeR-28&bg_color=0e0e12&color=e2e2e7&title_color=988bf0&line=988bf0&point=e2e2e7&area=true&hide_border=true&custom_title=GitHub%20Contribution%20Activity" width="100%" />
-</p>
-
----
-
-### 🌐 Let's Connect
-
-<p align="center">
-  <a href="https://x.com/BlazeR28_" target="_blank"><img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white" /></a>
-  &nbsp;&nbsp;
-  <a href="https://www.youtube.com/channel/UC0Y39mqqA9Mj85jez15l-9w" target="_blank"><img src="https://img.shields.io/badge/YouTube-0E0E12?style=flat-square&logo=youtube&logoColor=988BF0" /></a>
 </p>
 
 ---
