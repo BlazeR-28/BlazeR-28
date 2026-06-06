@@ -6,9 +6,6 @@
 
 ---
 
-<img src="assets/banner.png" alt="BlazeR Banner" width="100%" style="border-radius: 8px;" />
-
----
 
 ### 🚀 About Me
 I am a passionate hobbyist programmer and 3D designer focused on building clean desktop utilities, automating workflows, and experimenting with 3D visualization. I love creating tools with polished user interfaces following my signature dark slate-purple design language.
